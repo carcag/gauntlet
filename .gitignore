@@ -1,0 +1,9 @@
+gauntlet
+Gauntlet
+.save
+*.o
+*.out
+*.exe
+*~
+.#*
+#*#

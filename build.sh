@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=$PWD/SFML-2.2/lib
